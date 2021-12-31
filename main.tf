@@ -12,7 +12,7 @@ terraform {
   required_version = ">= 1.1.0"
 
   cloud {
-    organization = "TERRAFORM_GITHUB_DEMO"
+    organization = "DPPersonal"
 
     workspaces {
       name = "gh-actions-demo"
